@@ -10,7 +10,7 @@ const HotNews:React.FC = () =>{
             <h2> CNN LIVE</h2>
             <h3> Nestor brings heavy rain,</h3>
             <h3> possible tornadoes</h3>
-            <button><a href='#'><FaCircleArrowLeft/> <span>Unmute</span></a> </button>
+            <button><a href='button'><FaCircleArrowLeft/> <span>Unmute</span></a> </button>
         </div>
     )
 }

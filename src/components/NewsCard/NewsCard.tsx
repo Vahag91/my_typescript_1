@@ -20,7 +20,7 @@ const {image,content,title,publishDate} = data
         <h2>{title}</h2>
         <p>{content}</p>
         <p className={styles.date}>Published on: {publishDate}</p>
-        <a href='#' className={styles.read_more}>Read more</a>
+        <a href='button' className={styles.read_more}>Read more</a>
       </div>
     )
 }

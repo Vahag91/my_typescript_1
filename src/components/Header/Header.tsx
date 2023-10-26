@@ -8,7 +8,7 @@ const Header: React.FC = () => {
         <div className={styles.menu}>
 
             <div className={styles.logo}>
-                <a href="#">
+                <a href="button">
                     <span><FaApple /></span>
                 </a>
             </div>
@@ -21,10 +21,10 @@ const Header: React.FC = () => {
 
                 <nav>
                     <ul>
-                        <li> <a href="#">Home</a> </li>
-                        <li>  <a href="#">Contact</a></li>
-                        <li> <a href="#">About Us</a></li>
-                        <li>  <a href="#">Pricing</a></li>
+                        <li> <a href="button">Home</a> </li>
+                        <li>  <a href="button">Contact</a></li>
+                        <li> <a href="button">About Us</a></li>
+                        <li>  <a href="button">Pricing</a></li>
                     </ul>
                 </nav>
             </div>
