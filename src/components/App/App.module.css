@@ -1,0 +1,13 @@
+.main {
+    background-image: url("https://pub-static.fotor.com/assets/bg/5059a05f-e254-4c95-a452-713597f19ac6.jpg");
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+   
+}

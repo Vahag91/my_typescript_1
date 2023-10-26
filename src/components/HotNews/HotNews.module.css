@@ -1,0 +1,39 @@
+ .hotNews {
+     width: 400px;
+     margin: 0 auto;
+     color: aliceblue;
+     font-family: 'Fira Sans', sans-serif;
+     font-size: 26px;
+     margin-top: 80px;
+ }
+
+
+ .hotNews >*{
+    margin: 8px;
+ }
+ .hotNews h2 {
+     color: rgb(214, 26, 26);
+     font-weight: bold;
+ }
+
+ .hotNews button {
+     border-radius: 50px;
+     width: 100px;
+     height: 40px;
+     border: none;
+     cursor: pointer;
+     background-color: #f1f3f5;
+     font-size: 15px;
+
+ }
+
+ button a {
+     display: flex;
+     justify-content: space-evenly;
+     text-decoration: none;
+     color: #0e0e0e;
+ }
+
+ .hotNews button:hover {
+     background-color: #d6b2b2;
+ }
